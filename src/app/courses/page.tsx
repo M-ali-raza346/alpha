@@ -4,7 +4,7 @@ import Image from "next/image";
 import React from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-cards";
 import Link from "next/link";
-import courseData from "@/data/code_courses.json";
+import courseData from "@/Data/code_courses.json";
 
 const CoursesPage = () => {
   return (
